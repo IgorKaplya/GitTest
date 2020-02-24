@@ -1,0 +1,3 @@
+[submodule "GitTstSubmodule"]
+	path = GitTstSubmodule
+	url = https://github.com/IgorKaplya/GitTstSubmodule.git
